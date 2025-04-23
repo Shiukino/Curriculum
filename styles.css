@@ -69,3 +69,44 @@ body {
   font-size: large;
   border-radius: 15px;
 }
+
+.estudios .izq-title {
+  margin: 0px 0px 0px 250px;
+}
+
+.estudios .izq-text {
+  margin: 0px 0px 0px 200px;
+}
+
+.estudios .botones {
+  display: flex;
+  margin-left: 50px;
+  margin-bottom: 10px;
+}
+
+.estudios .btn {
+  background-color: rgba(70, 73, 80, 255);
+  color: aliceblue;
+  width: 150px;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  margin: 10px;
+  padding: 5px 10px;
+  border: 3px solid rgb(0, 255, 255);
+  border-radius: 15px;
+}
+
+.btn:hover {
+  color: #83c5f7;
+}
+
+.base {
+  padding: 70px 0;
+  background-color: rgba(208, 219, 221, 255);
+  text-align: center;
+}
+
+.base h3 {
+  margin: 30px 0;
+}
