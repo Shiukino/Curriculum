@@ -40,6 +40,13 @@ body {
   border-radius: 15px;
 }
 
+.perfil .img-perfil {
+  margin: 10px;
+  width: 250px;
+  height: 250px;
+  border-radius: 170px;
+}
+
 .perfil .datos-personales {
   text-align: left;
   margin-left: 70px;
@@ -51,4 +58,14 @@ body {
 
 .perfil .datos-perfil p {
   font-size: 19px;
+}
+
+.estudios {
+  position: absolute;
+  margin: 310px 500px;
+  width: 1330px;
+  height: 610px;
+  background-color: rgba(208, 219, 221, 255);
+  font-size: large;
+  border-radius: 15px;
 }
